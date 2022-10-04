@@ -1,4 +1,3 @@
-# This repo is no longer in use and has been archived
 # AWS Rambler Migrator
 
 An example of running [rambler](https://github.com/elwinar/rambler) migrations on deploy with the CDK.
